@@ -3,5 +3,5 @@
 #
 
 if __name__ == '__main__':
-    print('hello work')
+    print('hello works')
 
